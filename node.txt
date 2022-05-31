@@ -1,0 +1,22 @@
+node is  a javascript runningtime that executes code outside of browser.
+add a file 
+
+-cd.>firstScript.js
+-mrdir.firstScript.js
+
+npm node package manager
+
+******
+install  npm
+npm init -y
+
+install app
+npm i give-me-a-joke
+***
+install express
+express is a fame work
+-start up a server to listen for requests
+
+npm init -y
+npm i express
+//console.dir(app) checking the method
